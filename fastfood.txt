@@ -1,3 +1,5 @@
 burger
 pizza
 kebap
+hamburger
+pasta

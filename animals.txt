@@ -1,3 +1,5 @@
 dog
 cat
 eagle
+elephant
+tiger
