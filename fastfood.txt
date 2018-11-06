@@ -5,3 +5,5 @@ hamburger
 pasta
 adana
 baklava
+lazania
+hotdog

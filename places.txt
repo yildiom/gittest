@@ -3,3 +3,5 @@ duffel
 lint
 dubai
 istanbul
+london
+paris

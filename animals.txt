@@ -5,3 +5,5 @@ elephant
 tiger
 snake
 lizard
+hawk
+dinasour
