@@ -3,3 +3,5 @@ cat
 eagle
 elephant
 tiger
+snake
+lizard
